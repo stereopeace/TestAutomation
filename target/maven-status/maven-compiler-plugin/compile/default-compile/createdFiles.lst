@@ -1,0 +1,5 @@
+pages\BasePage.class
+pages\GooglePage.class
+util\PropertyLoader.class
+selenium\Browser.class
+selenium\BrowserCapabilities.class
